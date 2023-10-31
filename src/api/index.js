@@ -1,6 +1,6 @@
 
 function baseURL() {
-    const baseURL = 'http://localhost:4000';
+    const baseURL = 'https://backend-4gzl.onrender.com';
     return baseURL
 }
 
